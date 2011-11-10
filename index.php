@@ -71,7 +71,7 @@ if($action == "shower") {
 	$showered = $tamagotchi->actionShower();
 	$smarty->assign('ACTIONDONE','showered');
 	$smarty->assign('ACTIONPOINTS',$showered);
-	$facebook->api_client->notifications_send($_GET[pet], 'Du hast Dein Schwein geduscht! Yeah.', 'user_to_user');
+	$facebook->api_client->notifications_send($_GET[pet], 'Taken a shower. Yeah.', 'user_to_user');
 }
 
 if($action == "feed") {
