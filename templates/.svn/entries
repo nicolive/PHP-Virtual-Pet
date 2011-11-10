@@ -1,0 +1,78 @@
+8
+
+dir
+8
+file:///var/svn/bigfatpig2/templates
+file:///var/svn/bigfatpig2
+
+
+
+2009-09-25T12:52:49.748769Z
+8
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7d7a8b92-3121-4eee-b787-2c81e464ad5f
+
+index.tpl
+file
+
+
+
+
+2009-09-25T12:53:03.000000Z
+8069ab4ef3e4619a507dc3b9fe4a2955
+2009-09-25T12:52:49.748769Z
+8
+root
+
+header.tpl
+file
+
+
+
+
+2009-09-25T12:48:32.000000Z
+dc0615365e76ed00f76a71d0f893933d
+2009-09-25T12:48:19.580999Z
+6
+root
+
+noaccount.tpl
+file
+
+
+
+
+2009-09-25T10:42:03.000000Z
+2f0949da8ee713b9118ed855536a72af
+2009-09-25T10:38:08.361349Z
+2
+
+compile
+dir
+
+footer.tpl
+file
+
+
+
+
+2009-09-25T10:42:03.000000Z
+9930a6f5b310ee74d9355ffa7aa0d4be
+2009-09-25T10:35:23.188854Z
+1
+root
+
