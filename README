@@ -1,1 +1,9 @@
 This project will cover a virtual pet written in PHP with Facebook integration. Unfinished actually.
+
+1: import tamagotchi.sql to your mySQL database
+
+2: get Facebook api key and secret from developers.facebook.com and enter in config.php
+
+3: enter mySQL login data to config.php
+
+4: enter Facebook data in invite.php
